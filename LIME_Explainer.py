@@ -53,7 +53,7 @@ label_to_explain = 0
 
 # Display the explanation
 temp, mask = explanation.get_image_and_mask(
-    label=label_to_explain,  # Change this based on which label you want to explain
+    label=label_to_explain, 
     positive_only=False,
     num_features=10,
     hide_rest=False
