@@ -13,5 +13,6 @@ https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection
 ├── Classification.py              # For classification using lazypredict
 ├── EDA.py                         # For exploratory data analysis
 ├── Eigen_faces.ipynb              # For generating eigen faces
+├── Feature_data                   # Here all the features are saved for each category
 
 ``` 
