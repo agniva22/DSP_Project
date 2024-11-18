@@ -23,7 +23,7 @@ def load_image(image_path, img_size=(128, 128)):
 
 # Choose an image 
 folder_to_use = r'D:\Face_fake_detection\Data_files\full_ds\real'  
-image_name = 'real_00001.jpg'  
+image_name = 'real_00001.jpg_face_1.jpg'  
 image_path = os.path.join(folder_to_use, image_name)
 
 # Load the image
