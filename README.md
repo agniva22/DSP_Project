@@ -14,5 +14,6 @@ https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection
 ├── EDA.py                         # For exploratory data analysis
 ├── Eigen_faces.ipynb              # For generating eigen faces
 ├── Feature_data                   # Here all the features are saved for each category
-
+├── LIME_Explainer.py              # XAI using LIME
+├── SHAP_Explainer.py              # XAI using SHAP
 ``` 
