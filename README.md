@@ -6,7 +6,7 @@ The dataset consists of 1081 real images and three categories of a total of 960 
 
 Dataset: https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection
 
-![Dataset Overview](Example_images.png)
+![Dataset Overview](Images/Example_images.png)
 
 ## Directory Structure
 
