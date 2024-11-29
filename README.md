@@ -1,8 +1,12 @@
-# DSP_Project
+## DSP_Project
 This repository is dedicated to the data science practice project titled 'Understanding Real and Fake Faces'.
 
-# Dataset
-https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection
+## Dataset
+The dataset consists of 1081 real images and three categories of a total of 960 fake images—easy, medium, and hard to detect.
+
+Dataset: https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection
+
+![Dataset Overview](Example_images.png)
 
 ## Directory Structure
 
