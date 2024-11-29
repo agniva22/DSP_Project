@@ -17,7 +17,19 @@ Dataset: https://www.kaggle.com/datasets/ciplab/real-and-fake-face-detection
 ├── Classification.py              # For classification using lazypredict
 ├── EDA.py                         # For exploratory data analysis
 ├── Eigen_faces.ipynb              # For generating eigen faces
-├── Feature_data                   # Here all the features are saved for each category
 ├── LIME_Explainer.py              # XAI using LIME
 ├── SHAP_Explainer.py              # XAI using SHAP
+
 ``` 
+## Methodology & Deliverables
+
+1. **Workflow**
+![Workflow](Images/Workflow.png)
+
+2. **SHAP Explainer**
+![SHAP Explainer](Images/SHAP.png)
+
+3. **LIME Explainer**
+![LIME Explainer](Images/LIME.png)
+
+
